@@ -10,8 +10,8 @@ export default function Footer() {
       href: 'https://wa.me/5511926472392?text=Ol%C3%A1!%20Gostaria%20de%20realizar%20um%20or%C3%A7amento',
       label: 'WhatsApp',
     },
-    { icon: <Instagram size={20} />, href: 'https://instagram.com', label: 'Instagram' },
-    { icon: <Mail size={20} />, href: 'mailto:contato@amitconsulting.com', label: 'Email' },
+    { icon: <Instagram size={20} />, href: 'https://www.instagram.com/aemitconsulting/', label: 'Instagram' },
+    { icon: <Mail size={20} />, href: 'mailto:orcamentoaem@gmail.com', label: 'Email' },
   ];
 
   const quickLinks = [
@@ -21,7 +21,7 @@ export default function Footer() {
     { label: 'Depoimentos', id: 'testimonials' },
     { label: 'Contato', id: 'contact' },
   ];
-
+  
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
     if (element) {

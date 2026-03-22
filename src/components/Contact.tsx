@@ -26,10 +26,10 @@ export default function Contact() {
                 <div>
                   <p className="text-gray-400 text-sm mb-1">E-mail</p>
                   <a
-                    href="mailto:contato@amitconsulting.com"
+                    href="mailto:orcamentoaem@gmail.com"
                     className="text-white hover:text-cyan-400 transition-colors"
                   >
-                    contato@amitconsulting.com
+                    orcamentoaem@gmail.com
                   </a>
                 </div>
               </div>
