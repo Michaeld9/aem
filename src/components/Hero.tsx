@@ -41,11 +41,10 @@ export default function Hero() {
           <ArrowRight className="group-hover:translate-x-1 transition-transform" size={20} />
         </a>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-20 max-w-4xl mx-auto">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-20 max-w-4xl mx-auto">
           {[
-            { number: 'N+', label: 'Projetos Entregues' },
-            { number: 'N+', label: 'Clientes Ativos' },
-            { number: 'N+', label: 'Anos de Experiência' },
+            { number: '20+', label: 'Projetos Entregues' },
+            { number: '6+', label: 'Anos de Experiência' },
             { number: '98%', label: 'Satisfação do Cliente' },
           ].map((stat, index) => (
             <div key={index} className="text-center">
