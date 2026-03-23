@@ -73,7 +73,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-bold mb-4">Contato</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>contato@amitconsulting.com</li>
+              <li>orcamentoaem@gmail.com</li>
               <li>+55 (11) 9 2647-2392</li>
               <li>São Paulo, SP - Brasil</li>
             </ul>
