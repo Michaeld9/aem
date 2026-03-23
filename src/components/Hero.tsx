@@ -40,8 +40,7 @@ export default function Hero() {
           <span>Solicite um orçamento</span>
           <ArrowRight className="group-hover:translate-x-1 transition-transform" size={20} />
         </a>
-
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-20 max-w-4xl mx-auto">
+        {/* <div className="grid grid-cols-2 md:grid-cols-3 gap-8 mt-20 max-w-4xl mx-auto">
           {[
             { number: '20+', label: 'Projetos Entregues' },
             { number: '6+', label: 'Anos de Experiência' },
@@ -52,7 +51,7 @@ export default function Hero() {
               <div className="text-gray-400 text-sm md:text-base">{stat.label}</div>
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
 
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
