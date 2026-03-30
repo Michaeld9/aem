@@ -10,7 +10,7 @@ export default defineConfig({
     port: 4173,
   },
   preview: {
-    allowedHosts: ['www.aemconsulting.com.br'], // libera seu domínio DDNS
+    allowedHosts: ['www.aemconsulting.com.br', 'aemconsulting.com.br'], // libera seu domínio DDNS
   },
   optimizeDeps: {
     exclude: ['lucide-react'],
