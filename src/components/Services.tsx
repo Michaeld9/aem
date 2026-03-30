@@ -22,7 +22,7 @@ export default function Services() {
     },
     {
       icon: <MonitorCog size={40} />,
-      title: 'Montagem de Escritórios e Clínicas',
+      title: 'Soluções de Infraestrutura Tecnológica Corporativa',
       description: 'Planejamento e implantação completa da infraestrutura tecnológica, garantindo redes seguras, estações configuradas e operação eficiente desde o primeiro dia.',
       features: ['Projeto de Infraestrutura de TI', 'Montagem e Configuração de Computadores', 'Rede Estruturada e Firewall', 'Instalação de Impressoras e Periféricos','Configuração Segura e Suporte Técnico'],
     },
