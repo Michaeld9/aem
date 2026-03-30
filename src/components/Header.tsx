@@ -26,7 +26,7 @@ export default function Header() {
     { label: 'Início', id: 'hero' },
     { label: 'Sobre Nós', id: 'about' },
     { label: 'Serviços', id: 'services' },
-    { label: 'Depoimentos', id: 'testimonials' },
+    /*{ label: 'Depoimentos', id: 'testimonials' },*/
     { label: 'Contato', id: 'contact' },
   ];
 

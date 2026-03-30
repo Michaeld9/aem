@@ -38,12 +38,12 @@ export default function About() {
             </h2>
 
             <p className="text-gray-300 text-lg mb-6 leading-relaxed">
-              A <span className="text-cyan-400 font-semibold">A&M IT Consulting</span> é uma empresa líder em consultoria tecnológica,
+              A <span className="text-cyan-400 font-semibold">A&M IT Consulting</span> é uma empresa de consultoria tecnológica,
               especializada em transformar desafios complexos em soluções inovadoras e eficientes.
             </p>
 
             <p className="text-gray-300 text-lg mb-8 leading-relaxed">
-              Com mais de N anos de experiência, nossa equipe de especialistas trabalha lado a lado com organizações
+              Com anos de experiência, nossa equipe de especialistas trabalha lado a lado com organizações
               de todos os portes, desde startups disruptivas até grandes corporações, entregando resultados
               que impulsionam o crescimento e a competitividade no mercado digital.
             </p>
